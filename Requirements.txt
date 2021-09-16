@@ -1,0 +1,10 @@
+jupyter
+pandas
+numpy
+string
+re
+sklearn
+nltk
+gensim
+seaborn
+matplotlib
